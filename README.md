@@ -1,2 +1,3 @@
 # Sandbox1
-Python playground
+Testing Django using Rasperry PI3
+

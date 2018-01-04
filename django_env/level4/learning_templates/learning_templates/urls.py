@@ -24,3 +24,4 @@ urlpatterns = [
     path('basic_app/',include('basic_app.urls')),
     
 ]
+

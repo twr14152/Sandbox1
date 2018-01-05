@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 
 
 class UserProfileInfo(models.Model):
-    # had to add on_delete as its required in django 2.0
+    
     user = models.OneToOneField(User,on_delete=models.DO_NOTHING)
     
     # additional

@@ -1,3 +1,9 @@
 (django_env) pi@raspberrypi:~/FullStackCourse/first_project $ pip freeze
 Django==2.0
+Faker==0.8.8
+Pillow==5.0.0
+pycparser==2.18
+python-dateutil==2.6.1
 pytz==2017.3
+six==1.11.0
+text-unidecode==1.1

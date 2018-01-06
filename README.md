@@ -7,4 +7,3 @@ Level4 - Using templates
 
 Level5 - User authentication
     
-

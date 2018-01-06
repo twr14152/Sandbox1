@@ -16,7 +16,7 @@ def special(request):
 
 @login_required
 def user_logout(request):
-	lougout(request)
+	logout(request)
 	return HttpResponseRedirect(reverse('index'))
 	
 	

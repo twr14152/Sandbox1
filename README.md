@@ -7,4 +7,4 @@ Level4 - Using templates
 
 Level5 - User authentication
     
-proj_a - Blogging APP
+proj_a - Blogging App
